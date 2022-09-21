@@ -1,5 +1,10 @@
 body {
-    color: #333;
-    background-color: #850d4d;
-    font-family: 'Nabla', cursive;
+    max-width: 65ch;
+    margin: auto;
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+header {
+    text-align: center;
 }
